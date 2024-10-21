@@ -1,5 +1,3 @@
-## Introducción:
-MarkDown y GitHub.
 ## Qué he aprendido:
 Durante esta unidad he aprendido MarkDown y crear un repositorio en GitHub.
 ## Qué no entiendo:
